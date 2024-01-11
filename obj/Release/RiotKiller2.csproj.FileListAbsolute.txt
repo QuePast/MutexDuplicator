@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C# Projects\RiotKiller2\MutexKiller\bin\Release\RiotKiller2.exe.config
+C:\Users\admin\Desktop\C# Projects\RiotKiller2\MutexKiller\bin\Release\RiotKiller2.exe
+C:\Users\admin\Desktop\C# Projects\RiotKiller2\MutexKiller\bin\Release\RiotKiller2.pdb
+C:\Users\admin\Desktop\C# Projects\RiotKiller2\MutexKiller\obj\Release\RiotKiller2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C# Projects\RiotKiller2\MutexKiller\obj\Release\RiotKiller2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C# Projects\RiotKiller2\MutexKiller\obj\Release\RiotKiller2.exe
+C:\Users\admin\Desktop\C# Projects\RiotKiller2\MutexKiller\obj\Release\RiotKiller2.pdb

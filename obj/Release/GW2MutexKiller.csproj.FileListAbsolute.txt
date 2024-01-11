@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\GW2-MutexKiller-master\Gw2MutexKiller\obj\Release\GW2MutexKiller.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GW2-MutexKiller-master\Gw2MutexKiller\obj\Release\GW2MutexKiller.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GW2-MutexKiller-master\Gw2MutexKiller\bin\Release\RajovanKiller.exe.config
+C:\Users\admin\Desktop\GW2-MutexKiller-master\Gw2MutexKiller\bin\Release\RajovanKiller.exe
+C:\Users\admin\Desktop\GW2-MutexKiller-master\Gw2MutexKiller\bin\Release\RajovanKiller.pdb
+C:\Users\admin\Desktop\GW2-MutexKiller-master\Gw2MutexKiller\obj\Release\RajovanKiller.exe
+C:\Users\admin\Desktop\GW2-MutexKiller-master\Gw2MutexKiller\obj\Release\RajovanKiller.pdb

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\bin\Release\RiotKiller.exe.config
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\bin\Release\RiotKiller.exe
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\bin\Release\RiotKiller.pdb
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\obj\Release\RiotKiller.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\obj\Release\RiotKiller.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\obj\Release\RiotKiller.exe
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\obj\Release\RiotKiller.pdb
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\bin\Release\RiotKiller2.exe.config
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\bin\Release\RiotKiller2.exe
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\bin\Release\RiotKiller2.pdb
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\obj\Release\RiotKiller.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\obj\Release\RiotKiller.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\obj\Release\RiotKiller2.exe
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\obj\Release\RiotKiller2.pdb

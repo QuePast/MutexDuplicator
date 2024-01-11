@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\bin\Debug\RiotKiller.exe.config
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\bin\Debug\RiotKiller.exe
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\bin\Debug\RiotKiller.pdb
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\obj\Debug\RiotKiller.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\obj\Debug\RiotKiller.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\obj\Debug\RiotKiller.exe
+C:\Users\admin\Desktop\RiotKiller\Gw2MutexKiller\obj\Debug\RiotKiller.pdb
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\bin\Debug\RiotKiller2.exe.config
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\bin\Debug\RiotKiller2.exe
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\bin\Debug\RiotKiller2.pdb
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\obj\Debug\RiotKiller.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\obj\Debug\RiotKiller.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\obj\Debug\RiotKiller2.exe
+C:\Users\admin\source\repos\Duplicate\Gw2MutexKiller\obj\Debug\RiotKiller2.pdb
