@@ -1,7 +1,7 @@
-# MutexKiller
+# MutexDuplicator
 
 ## Overview
-MutexKiller is a C# program designed for advanced users who need to manage and duplicate Mutex handles in a Windows environment. This utility facilitates Mutex handle management across different processes, providing insights and control over Mutex handles.
+MutexDuplicator is a C# program designed for advanced users who need to manage and duplicate Mutex handles in a Windows environment. This utility facilitates Mutex handle management across different processes, providing insights and control over Mutex handles.
 
 ## Features
 - Identify running processes related to specific applications (e.g., League of Legends) that use Mutex handles.
