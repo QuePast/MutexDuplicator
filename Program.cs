@@ -31,7 +31,7 @@ namespace MutexKiller
             }
 
             var leagueProcesses = Process.GetProcesses()
-                                         .Where(p => p.ProcessName.StartsWith("Leagueb"))
+                                         .Where(p => p.ProcessName.StartsWith("notepad"))
                                          .ToList();
 
             foreach (var process in leagueProcesses)
